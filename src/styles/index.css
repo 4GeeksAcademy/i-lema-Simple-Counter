@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#fondo {
+    background-color: black;
+}
+.clock {
+    width: 750px;
+    height: 150px;
+}
+#app {
+    display: flex;
+    justify-content: center;
+}
+#reloj, #numero {
+    background: #2b2b2b;
+    box-shadow: 0 0 5px grey;
+}
